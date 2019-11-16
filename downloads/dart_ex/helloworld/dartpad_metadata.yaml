@@ -2,5 +2,3 @@ name: Dart HTML test with just main
 mode: dart
 files:
   - name: helloworld.dart
-  - name: index.html
-  - name: style.css
