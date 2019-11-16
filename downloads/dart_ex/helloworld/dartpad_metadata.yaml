@@ -1,0 +1,6 @@
+name: Dart HTML test with just main
+mode: html
+files:
+  - name: main.dart
+  - name: index.html
+  - name: style.css
