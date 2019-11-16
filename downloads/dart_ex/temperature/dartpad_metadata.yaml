@@ -1,6 +1,4 @@
 name: Dart HTML test with just main
-mode: html
+mode: dart
 files:
   - name: temperature.dart
-  - name: index.html
-  - name: style.css
